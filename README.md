@@ -14,5 +14,5 @@ Steps:
 11. Commit the changes in "development" branch with the message using command 'git commit -m "Add rep setup and branch creation instructions"'
 12. Merge changes in "development" branch into "main" using commands 'git checkout main' and 'git merge development'
 13. Check the status using command 'git status'
-14. Commit the changes using command 'git commit -m "Final"'
+14. If you see other than "On branch main nothing to commit, working tree clean", commit the changes using command 'git commit -m "Final"'
 
